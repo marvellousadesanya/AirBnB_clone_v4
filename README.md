@@ -154,9 +154,9 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Marv Adesanya - [Github](https://github.com/marvellousadesanya) / [Twitter](https://twitter.com/BeLikeMarv)  
-## YOUR NAME HERE ########
-Omaka Kalu - [Github] (https://github.com/omaks45) 
+Maureen Oguche - [Github](https://github.com/MaureenMOguche) / [Twitter](https://twitter.com/MaureenOguche)  
+Uchenna Francis Ozoano - [Github](https://github.com/ozoano) 
 
+Second part of Airbnb: Joann Vuong
 ## License
 Public Domain. No copy write protection. 
